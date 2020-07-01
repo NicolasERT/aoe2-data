@@ -1,0 +1,414 @@
+[
+  {
+    "title": "26 + 2 Fast Castle",
+    "reference": "https://github.com/Phibonacci/aoe2-build-orders",
+    "steps": [
+      {
+        "pop": 4,
+        "total_pop": 5,
+        "food": 0,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "2 Queue villager",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "pop": 4,
+        "total_pop": 5,
+        "food": 0,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build 2 houses",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "pop": 4,
+        "total_pop": 15,
+        "food": 3,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "Move villagers to sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 7,
+        "total_pop": 15,
+        "food": 6,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 to Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 11,
+        "total_pop": 15,
+        "food": 6,
+        "wood": 4,
+        "gold": 0,
+        "stone": 0,
+        "order": "4 to Wood",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "pop": 12,
+        "total_pop": 15,
+        "food": 7,
+        "wood": 4,
+        "gold": 0,
+        "stone": 0,
+        "order": "1 lure Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 13,
+        "total_pop": 15,
+        "food": 7,
+        "wood": 4,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build House, then Mill",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "pop": 16,
+        "total_pop": 20,
+        "food": 11,
+        "wood": 4,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 to Mill",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "pop": 17,
+        "total_pop": 20,
+        "food": 12,
+        "wood": 4,
+        "gold": 0,
+        "stone": 0,
+        "order": "1 lure Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 17,
+        "total_pop": 20,
+        "food": 12,
+        "wood": 4,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build House and Woodworker",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "pop": 20,
+        "total_pop": 25,
+        "food": 15,
+        "wood": 4,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 to Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 23,
+        "total_pop": 25,
+        "food": 15,
+        "wood": 7,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 to Wood",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "pop": 23,
+        "total_pop": 25,
+        "food": 15,
+        "wood": 7,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build House and Woodworker",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "pop": 26,
+        "total_pop": 30,
+        "food": 15,
+        "wood": 7,
+        "gold": 3,
+        "stone": 0,
+        "order": "3 to Gold",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "pop": 26,
+        "total_pop": 30,
+        "food": 15,
+        "wood": 7,
+        "gold": 3,
+        "stone": 0,
+        "order": "Move 3 from Sheep to Deer",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 26,
+        "total_pop": 30,
+        "food": 15,
+        "wood": 7,
+        "gold": 3,
+        "stone": 0,
+        "order": "Loom and Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "pop": 26,
+        "total_pop": 30,
+        "food": 15,
+        "wood": 7,
+        "gold": 3,
+        "stone": 0,
+        "order": "2 Queue villager, 2 from Wood on Market, 2 from Wood on Blacksmith",
+        "image": "images/buildings/84.png"
+      },
+      {
+        "pop": 28,
+        "total_pop": 30,
+        "food": 15,
+        "wood": 9,
+        "gold": 3,
+        "stone": 0,
+        "order": "Castle Age",
+        "image": "images/ages/castle_age_de.png"
+      }
+    ]
+  },
+  {
+    "title": "Scout Rush",
+    "reference": "https://github.com/Phibonacci/aoe2-build-orders",
+    "steps": [
+      {
+        "pop": 4,
+        "total_pop": 5,
+        "food": 0,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "2 Queue villager",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "pop": 4,
+        "total_pop": 5,
+        "food": 0,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build 2 houses",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "pop": 4,
+        "total_pop": 15,
+        "food": 3,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "Move villagers to sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 7,
+        "total_pop": 15,
+        "food": 6,
+        "wood": 0,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 to Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 10,
+        "total_pop": 15,
+        "food": 6,
+        "wood": 3,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 to Wood",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "pop": 11,
+        "total_pop": 15,
+        "food": 8,
+        "wood": 3,
+        "gold": 0,
+        "stone": 0,
+        "order": "1 lure Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 12,
+        "total_pop": 15,
+        "food": 8,
+        "wood": 3,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build House, then Mill",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "pop": 15,
+        "total_pop": 20,
+        "food": 11,
+        "wood": 3,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 to Mill",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "pop": 16,
+        "total_pop": 20,
+        "food": 12,
+        "wood": 3,
+        "gold": 0,
+        "stone": 0,
+        "order": "1 lure Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 18,
+        "total_pop": 20,
+        "food": 14,
+        "wood": 3,
+        "gold": 0,
+        "stone": 0,
+        "order": "2 to Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 18,
+        "total_pop": 20,
+        "food": 14,
+        "wood": 3,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build House and Woodworker",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "pop": 20,
+        "total_pop": 25,
+        "food": 14,
+        "wood": 5,
+        "gold": 0,
+        "stone": 0,
+        "order": "2 to Wood",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "pop": 21,
+        "total_pop": 25,
+        "food": 15,
+        "wood": 5,
+        "gold": 0,
+        "stone": 0,
+        "order": "1 to Sheep",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "pop": 22,
+        "total_pop": 25,
+        "food": 15,
+        "wood": 6,
+        "gold": 0,
+        "stone": 0,
+        "order": "1 to wood",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "pop": 22,
+        "total_pop": 25,
+        "food": 11,
+        "wood": 10,
+        "gold": 0,
+        "stone": 0,
+        "order": "Move 4 from Sheep to Wood",
+        "image": "images/resources/food.png"
+      },
+      {
+        "pop": 22,
+        "total_pop": 25,
+        "food": 11,
+        "wood": 10,
+        "gold": 0,
+        "stone": 0,
+        "order": "Loom and Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "pop": 22,
+        "total_pop": 25,
+        "food": 11,
+        "wood": 10,
+        "gold": 0,
+        "stone": 0,
+        "order": "At 60% of Feudal, 2 from woodworker build barracks, then House and Stable",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "pop": 22,
+        "total_pop": 30,
+        "food": 11,
+        "wood": 10,
+        "gold": 0,
+        "stone": 0,
+        "order": "3 queue villager to wood, 3 queue scout",
+        "image": "images/buildings/84.png"
+      },
+      {
+        "pop": 28,
+        "total_pop": 30,
+        "food": 11,
+        "wood": 13,
+        "gold": 0,
+        "stone": 0,
+        "order": "Search two bit axe and horse collar",
+        "image": "images/ages/castle_age_de.png"
+      },
+      {
+        "pop": 28,
+        "total_pop": 30,
+        "food": 11,
+        "wood": 13,
+        "gold": 0,
+        "stone": 0,
+        "order": "Build blacksmith",
+        "image": "images/ages/castle_age_de.png"
+      },
+      {
+        "pop": null,
+        "total_pop": null,
+        "food": null,
+        "wood": null,
+        "gold": null,
+        "stone": null,
+        "order": "Search Wheelbarrow at 14 farms",
+        "image": "images/ages/castle_age_de.png"
+      },
+      {
+        "pop": null,
+        "total_pop": null,
+        "food": null,
+        "wood": null,
+        "gold": null,
+        "stone": null,
+        "order": "If you are going to transition archers, move 10 to gold",
+        "image": "images/ages/castle_age_de.png"
+      }
+    ]
+  }
+]
