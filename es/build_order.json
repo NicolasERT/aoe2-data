@@ -164,7 +164,7 @@
         "wood": 7,
         "gold": 3,
         "stone": 0,
-        "order": "Mover 3 de las ovejas a los cirvos",
+        "order": "Mover 3 de las ovejas a los ciervos",
         "image": "images/resources/food.png"
       },
       {
