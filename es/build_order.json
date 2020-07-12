@@ -10,6 +10,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "En cola 2 aldeanos",
         "image": "images/buildings/71.png"
       },
@@ -20,6 +21,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Construir 2 casas",
         "image": "images/buildings/70.png"
       },
@@ -30,6 +32,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Mover aldeanos a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -40,6 +43,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "4-6",
         "order": "3 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -50,6 +54,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "7-10",
         "order": "4 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -60,6 +65,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "11",
         "order": "1 atrae el jabalí",
         "image": "images/resources/food.png"
       },
@@ -70,6 +76,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "12",
         "order": "Construir casa, luego molino",
         "image": "images/buildings/68.png"
       },
@@ -80,6 +87,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "13-15",
         "order": "3 al molino",
         "image": "images/buildings/68.png"
       },
@@ -90,6 +98,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "1 atrae al jabalí",
         "image": "images/resources/food.png"
       },
@@ -100,6 +109,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "Construir casa y campamento maderero",
         "image": "images/buildings/562.png"
       },
@@ -110,6 +120,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "17-19",
         "order": "3 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -120,6 +131,7 @@
         "wood": 7,
         "gold": 0,
         "stone": 0,
+        "villager": "20-22",
         "order": "3 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -130,6 +142,7 @@
         "wood": 7,
         "gold": 0,
         "stone": 0,
+        "villager": "22",
         "order": "Construir casa y campamento maderero",
         "image": "images/buildings/562.png"
       },
@@ -140,6 +153,7 @@
         "wood": 7,
         "gold": 3,
         "stone": 0,
+        "villager": "23-25",
         "order": "3 al oro",
         "image": "images/resources/gold.png"
       },
@@ -196,6 +210,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "En cola 2 aldeanos",
         "image": "images/buildings/71.png"
       },
@@ -206,6 +221,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Construir 2 casas",
         "image": "images/buildings/70.png"
       },
@@ -216,6 +232,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Mover aldeanos a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -226,6 +243,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "4-6",
         "order": "3 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -236,6 +254,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "7-9",
         "order": "3 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -246,6 +265,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "10",
         "order": "1 atrae al jabalí",
         "image": "images/resources/food.png"
       },
@@ -256,6 +276,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "11",
         "order": "Contruir casa y luego molino",
         "image": "images/buildings/68.png"
       },
@@ -266,6 +287,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "12-14",
         "order": "3 al molino",
         "image": "images/buildings/68.png"
       },
@@ -276,6 +298,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "15",
         "order": "1 atra el jabalí",
         "image": "images/resources/food.png"
       },
@@ -286,6 +309,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "16-17",
         "order": "2 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -296,6 +320,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "17",
         "order": "Construir casa y campamento maderero",
         "image": "images/buildings/562.png"
       },
@@ -306,6 +331,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "18-19",
         "order": "2 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -316,6 +342,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "20",
         "order": "1 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -326,6 +353,7 @@
         "wood": 6,
         "gold": 0,
         "stone": 0,
+        "villager": "21",
         "order": "1 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -366,6 +394,7 @@
         "wood": 10,
         "gold": 0,
         "stone": 0,
+        "villager": "22-24",
         "order": "En cola 3 aldeanos a la madera y 3 scouts",
         "image": "images/units/448.png"
       },
@@ -422,6 +451,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "En cola 2 aldeanos",
         "image": "images/buildings/71.png"
       },
@@ -432,6 +462,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Construir 2 casas",
         "image": "images/buildings/70.png"
       },
@@ -442,6 +473,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Mover aldeanos a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -452,6 +484,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "4-6",
         "order": "3 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -462,6 +495,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "7-10",
         "order": "4 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -472,6 +506,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "11",
         "order": "1 atrae al jabalí",
         "image": "images/resources/food.png"
       },
@@ -482,6 +517,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "12",
         "order": "Construir casa y luego molino",
         "image": "images/buildings/68.png"
       },
@@ -492,6 +528,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "13-15",
         "order": "3 al molino",
         "image": "images/buildings/68.png"
       },
@@ -502,6 +539,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "1 atrae al jabalí",
         "image": "images/resources/food.png"
       },
@@ -512,6 +550,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "Construir casa y campamento maderero",
         "image": "images/buildings/562.png"
       },
@@ -522,6 +561,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "17-18",
         "order": "2 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -532,6 +572,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "19",
         "order": "1 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -542,6 +583,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "20",
         "order": "1 a las ovejas",
         "image": "images/resources/food.png"
       },
@@ -552,6 +594,7 @@
         "wood": 6,
         "gold": 0,
         "stone": 0,
+        "villager": "21",
         "order": "1 a la madera",
         "image": "images/resources/wood.png"
       },
@@ -592,6 +635,7 @@
         "wood": null,
         "gold": null,
         "stone": null,
+        "villager": "22-26",
         "order": "5 Aldeanos al oro",
         "image": "images/resources/gold.png"
       },
@@ -614,6 +658,124 @@
         "stone": null,
         "order": "Construir herrería",
         "image": "images/buildings/103.png"
+      }
+    ]
+  },
+  {
+    "title": "Drush → Arqueros",
+    "reference": "https://aoecompanion.com/build-guides/dark-age-rush-archers",
+    "steps": [
+      {
+        "villager": "3",
+        "order": "Poner en cola aldeanos",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "villager": "3",
+        "order": "2 casas",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "3",
+        "order": "Mover a las ovejas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "4-6",
+        "order": "3 a las ovejas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "7-10",
+        "order": "Campamento maderero",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "villager": "11",
+        "order": "Atraer al jabalí",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "12",
+        "order": "2 casas, luego al molino",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "13-15",
+        "order": "3 al molino",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "villager": "15",
+        "order": "Atraer el jabalí con 1 del molino",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "16",
+        "order": "Minar 10 de oro",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "17",
+        "order": "Cuartel, luego entrenar 3 milicias y enviar el Aldeano a las ovejas",
+        "image": "images/buildings/12.png"
+      },
+      {
+        "villager": "18-21",
+        "order": "Ovejas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "22-25",
+        "order": "Granjas",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Edad Feudal",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Tomar 7 aldeanos de las ovejas y construir campamento maderero",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "order": "Tomar 4 adeanos de las ovejas y construir campamento minero en el oro",
+        "image": "images/buildings/584.png"
+      },
+      {
+        "order": "Cuando se terminen las ovejas, enviar los aldeanos a los arboles cercanos al centro urbano",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "food": 7,
+        "wood": 13,
+        "gold": 4,
+        "stone": 0,
+        "order": "En Edad Feudal",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "villager": "25",
+        "order": "(2x) Galería tiro con arco, luego Herrería",
+        "image": "images/buildings/87.png"
+      },
+      {
+        "villager": "26-29",
+        "order": "Oro",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Granjas",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Eviar los aldeanos de los arboles cercanos al centro urbano a granjas",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Al tener entre 6-8 arqueros, atacar!",
+        "image": "images/units/4.png"
       }
     ]
   }

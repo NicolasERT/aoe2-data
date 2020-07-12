@@ -10,6 +10,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "2 Queue villager",
         "image": "images/buildings/71.png"
       },
@@ -20,6 +21,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Build 2 houses",
         "image": "images/buildings/70.png"
       },
@@ -30,6 +32,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Move villagers to sheep",
         "image": "images/resources/food.png"
       },
@@ -40,6 +43,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "4-6",
         "order": "3 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -50,6 +54,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "7-10",
         "order": "4 to Wood",
         "image": "images/resources/wood.png"
       },
@@ -60,6 +65,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "11",
         "order": "1 lure Boar",
         "image": "images/resources/food.png"
       },
@@ -70,6 +76,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "12",
         "order": "Build House, then Mill",
         "image": "images/buildings/68.png"
       },
@@ -80,6 +87,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "13-15",
         "order": "3 to Mill",
         "image": "images/buildings/68.png"
       },
@@ -90,6 +98,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "1 lure Boar",
         "image": "images/resources/food.png"
       },
@@ -100,6 +109,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "Build House and Woodworker",
         "image": "images/buildings/562.png"
       },
@@ -110,6 +120,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "17-19",
         "order": "3 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -120,6 +131,7 @@
         "wood": 7,
         "gold": 0,
         "stone": 0,
+        "villager": "20-22",
         "order": "3 to Wood",
         "image": "images/resources/wood.png"
       },
@@ -130,6 +142,7 @@
         "wood": 7,
         "gold": 0,
         "stone": 0,
+        "villager": "22",
         "order": "Build House and Woodworker",
         "image": "images/buildings/562.png"
       },
@@ -140,6 +153,7 @@
         "wood": 7,
         "gold": 3,
         "stone": 0,
+        "villager": "23-25",
         "order": "3 to Gold",
         "image": "images/resources/gold.png"
       },
@@ -196,6 +210,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "2 Queue villager",
         "image": "images/buildings/71.png"
       },
@@ -206,6 +221,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Build 2 houses",
         "image": "images/buildings/70.png"
       },
@@ -216,6 +232,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Move villagers to sheep",
         "image": "images/resources/food.png"
       },
@@ -226,6 +243,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "4-6",
         "order": "3 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -236,6 +254,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "7-9",
         "order": "3 to Wood",
         "image": "images/resources/wood.png"
       },
@@ -246,6 +265,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "10",
         "order": "1 lure Boar",
         "image": "images/resources/food.png"
       },
@@ -256,6 +276,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "11",
         "order": "Build House, then Mill",
         "image": "images/buildings/68.png"
       },
@@ -266,6 +287,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "12-14",
         "order": "3 to Mill",
         "image": "images/buildings/68.png"
       },
@@ -276,6 +298,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "15",
         "order": "1 lure Boar",
         "image": "images/resources/food.png"
       },
@@ -286,6 +309,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "16-17",
         "order": "2 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -296,6 +320,7 @@
         "wood": 3,
         "gold": 0,
         "stone": 0,
+        "villager": "17",
         "order": "Build House and Woodworker",
         "image": "images/buildings/562.png"
       },
@@ -306,6 +331,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "18-19",
         "order": "2 to Wood",
         "image": "images/resources/wood.png"
       },
@@ -316,6 +342,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "20",
         "order": "1 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -326,6 +353,7 @@
         "wood": 6,
         "gold": 0,
         "stone": 0,
+        "villager": "21",
         "order": "1 to wood",
         "image": "images/resources/wood.png"
       },
@@ -366,6 +394,7 @@
         "wood": 10,
         "gold": 0,
         "stone": 0,
+        "villager": "22-24",
         "order": "3 queue villager to wood, 3 queue scout",
         "image": "images/units/448.png"
       },
@@ -422,6 +451,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "2 Queue villager",
         "image": "images/buildings/71.png"
       },
@@ -432,6 +462,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Build 2 houses",
         "image": "images/buildings/70.png"
       },
@@ -442,6 +473,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "3",
         "order": "Move villagers to sheep",
         "image": "images/resources/food.png"
       },
@@ -452,6 +484,7 @@
         "wood": 0,
         "gold": 0,
         "stone": 0,
+        "villager": "4-6",
         "order": "3 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -462,6 +495,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "7-10",
         "order": "4 to Wood",
         "image": "images/resources/wood.png"
       },
@@ -472,6 +506,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "11",
         "order": "1 lure Boar",
         "image": "images/resources/food.png"
       },
@@ -482,6 +517,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "12",
         "order": "Build House, then Mill",
         "image": "images/buildings/68.png"
       },
@@ -492,6 +528,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "13-15",
         "order": "3 to Mill",
         "image": "images/buildings/68.png"
       },
@@ -502,6 +539,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "1 lure Boar",
         "image": "images/resources/food.png"
       },
@@ -512,6 +550,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "16",
         "order": "Build House and Woodworker",
         "image": "images/buildings/562.png"
       },
@@ -522,6 +561,7 @@
         "wood": 4,
         "gold": 0,
         "stone": 0,
+        "villager": "17-18",
         "order": "2 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -532,6 +572,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "19",
         "order": "1 to Wood",
         "image": "images/resources/wood.png"
       },
@@ -542,6 +583,7 @@
         "wood": 5,
         "gold": 0,
         "stone": 0,
+        "villager": "20",
         "order": "1 to Sheep",
         "image": "images/resources/food.png"
       },
@@ -552,6 +594,7 @@
         "wood": 6,
         "gold": 0,
         "stone": 0,
+        "villager": "21",
         "order": "1 to Wood",
         "image": "images/resources/wood.png"
       },
@@ -592,6 +635,7 @@
         "wood": null,
         "gold": null,
         "stone": null,
+        "villager": "22-26",
         "order": "5 Villagers to gold",
         "image": "images/resources/gold.png"
       },
@@ -614,6 +658,124 @@
         "stone": null,
         "order": "Blacksmith",
         "image": "images/buildings/103.png"
+      }
+    ]
+  },
+  {
+    "title": "Drush → Archers",
+    "reference": "https://aoecompanion.com/build-guides/dark-age-rush-archers",
+    "steps": [
+      {
+        "villager": "3",
+        "order": "Queue up villagers",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "villager": "3",
+        "order": "2 houses",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "3",
+        "order": "Move villagers to sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "4-6",
+        "order": "3 to Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "7-10",
+        "order": "Lumber Camp, then 4 to Wood",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "villager": "11",
+        "order": "Lure Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "12",
+        "order": "2 house, then to berries",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "13-15",
+        "order": "3 to Mill",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "villager": "15",
+        "order": "Lure Boar with 1 from berries",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "16",
+        "order": "Mine 10 Gold",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "17",
+        "order": "Barracks, then train 3 Militia and send Villager to Sheep",
+        "image": "images/buildings/12.png"
+      },
+      {
+        "villager": "18-21",
+        "order": "Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "22-25",
+        "order": "Farms",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Take 7 villager from sheep and build Lumber Camp",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "order": "Take 4 villager from sheep and build (gold) Mining Camp",
+        "image": "images/buildings/584.png"
+      },
+      {
+        "order": "When sheep are depleted, send your Villagers to Straggler Trees",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "food": 7,
+        "wood": 13,
+        "gold": 4,
+        "stone": 0,
+        "order": "In Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "villager": "25",
+        "order": "(2x) Archery Range, then Blacksmith",
+        "image": "images/buildings/87.png"
+      },
+      {
+        "villager": "26-29",
+        "order": "Gold",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Farms",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Send your Villagers on Straggler Trees to Farms",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Once you have 6-8 Archers, attack!",
+        "image": "images/units/4.png"
       }
     ]
   }
