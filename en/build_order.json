@@ -778,5 +778,252 @@
         "image": "images/units/4.png"
       }
     ]
+  },
+  {
+    "title": "Men-at-Arms + Tower Rush",
+    "reference": "https://aoecompanion.com/build-guides/men-at-arms-towers",
+    "steps": [
+      {
+        "villager": "3",
+        "order": "Queue up villagers",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "villager": "3",
+        "order": "2 houses",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "3",
+        "order": "Move villagers to sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "4-6",
+        "order": "3 to Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "7-10",
+        "order": "Lumber Camp, then 4 to Wood",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "villager": "11",
+        "order": "Lure Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "12",
+        "order": "2 house, then to berries",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "13-15",
+        "order": "3 to Mill",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "villager": "15",
+        "order": "Lure Boar with 1 from berries",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "16-18",
+        "order": "Sheep/Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "19",
+        "order": "Barracks, then train 3 Militia and send Villager to Stone",
+        "image": "images/buildings/12.png"
+      },
+      {
+        "villager": "20",
+        "order": "(Gold) Mining Camp",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "21",
+        "order": "Gold",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "order": "Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Send your Villagers on Gold Forward (after collecting 40 Gold)",
+        "image": "images/buildings/234.png"
+      },
+      {
+        "order": "Send 3 Villagers from Sheep Forward",
+        "image": "images/buildings/234.png"
+      },
+      {
+        "order": "Take 4 Villagers from Sheep to (Stone) Mining Camp",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "food": 7,
+        "wood": 4,
+        "gold": 0,
+        "stone": 5,
+        "order": "In Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      }
+    ]
+  },
+  {
+    "title": "Drush → Fast Castle",
+    "reference": "https://aoecompanion.com/build-guides/drush-fast-castle",
+    "steps": [
+      {
+        "villager": "3",
+        "order": "Queue up villagers",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "villager": "3",
+        "order": "2 houses",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "3",
+        "order": "Move villagers to sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "4-6",
+        "order": "3 to Sheep",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "7-10",
+        "order": "Lumber Camp, then 4 to Wood",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "villager": "11",
+        "order": "Lure Boar",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "12",
+        "order": "2 house, then to berries",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "13-15",
+        "order": "3 to Mill",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "villager": "15",
+        "order": "Lure Boar with 1 from berries",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "16",
+        "order": "Mine 10 Gold, then send to wood",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "17",
+        "order": "Barracks, then train 3 Militia and send Villager to Sheep / Boar",
+        "image": "images/buildings/12.png"
+      },
+      {
+        "villager": "18-20",
+        "order": "Wood",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "villager": "21-22",
+        "order": "Berries",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "23-28",
+        "order": "Farms",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Send 7 villager from sheep to Farms",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "As Sheep / Boar get depleted send 4 to Gold",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "food": 14,
+        "wood": 10,
+        "gold": 4,
+        "stone": 0,
+        "order": "In Feudal Age",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Double-Bit Axe",
+        "image": "images/techs/202.png"
+      },
+      {
+        "order": "Build (2x) Archery Range with 2 villagers",
+        "image": "images/buildings/87.png"
+      },
+      {
+        "order": "Build Blacksmith with 1 villagers",
+        "image": "images/buildings/103.png"
+      },
+      {
+        "villager": "29-30",
+        "order": "Gold",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "order": "Castle Age",
+        "image": "images/ages/castle_age_de.png"
+      },
+      {
+        "order": "As your Berries get depleated, send those Villagers to gold and wood",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "order": "Archers",
+        "image": "images/units/4.png"
+      },
+      {
+        "order": "Fletching",
+        "image": "images/techs/199.png"
+      },
+      {
+        "food": 10,
+        "wood": 12,
+        "gold": 8,
+        "stone": 0,
+        "order": "In Castle Age",
+        "image": "images/ages/castle_age_de.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Bodkin Arrow",
+        "image": "images/techs/200.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Crossbows",
+        "image": "images/units/24.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Bow Saw",
+        "image": "images/techs/203.png"
+      }
+    ]
   }
 ]

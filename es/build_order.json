@@ -778,5 +778,252 @@
         "image": "images/units/4.png"
       }
     ]
+  },
+  {
+    "title": "Hombres de armas + Rush de Torres",
+    "reference": "https://aoecompanion.com/build-guides/men-at-arms-towers",
+    "steps": [
+      {
+        "villager": "3",
+        "order": "Poner en cola aldeanos",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "villager": "3",
+        "order": "2 casas",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "3",
+        "order": "Mover aldeanos a las ovejas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "4-6",
+        "order": "3 a las ovejas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "7-10",
+        "order": "Construir campamento maderero y enviar a la madera",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "villager": "11",
+        "order": "Atraer jabalí",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "12",
+        "order": "2 casas, luego a las bayas",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "13-15",
+        "order": "3 al molino",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "villager": "15",
+        "order": "Atraer jabalí con 1 de las bayas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "16-18",
+        "order": "Oveja/jabalí",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "19",
+        "order": "Cuartel, luego entrenar 3 Milicias y enviar el aldeano a la piedra",
+        "image": "images/buildings/12.png"
+      },
+      {
+        "villager": "20",
+        "order": "Campamento minero (oro)",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "21",
+        "order": "Oro",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "order": "Edad feudal",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Enviar los aldeanos al oro adelante (luego de tomar 40 de oro)",
+        "image": "images/buildings/234.png"
+      },
+      {
+        "order": "Enviar 3 aldeanos de las ovejas adelante",
+        "image": "images/buildings/234.png"
+      },
+      {
+        "order": "Mover 4 aldeanos de las ovejas y contruir campamento minero (piedra)",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "food": 7,
+        "wood": 4,
+        "gold": 0,
+        "stone": 5,
+        "order": "En Edad Feudal",
+        "image": "images/ages/feudal_age_de.png"
+      }
+    ]
+  },
+  {
+    "title": "Drush → Pase rápido a castillos",
+    "reference": "https://aoecompanion.com/build-guides/drush-fast-castle",
+    "steps": [
+      {
+        "villager": "3",
+        "order": "Poner en cola aldeanos",
+        "image": "images/buildings/71.png"
+      },
+      {
+        "villager": "3",
+        "order": "2 casas",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "3",
+        "order": "Mover aldeanos a las ovejas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "4-6",
+        "order": "3 a las ovejas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "7-10",
+        "order": "Campamento maderero y a la madera",
+        "image": "images/buildings/562.png"
+      },
+      {
+        "villager": "11",
+        "order": "Atraer jabalí",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "12",
+        "order": "2 casas, luego a las bayas",
+        "image": "images/buildings/70.png"
+      },
+      {
+        "villager": "13-15",
+        "order": "3 al molino",
+        "image": "images/buildings/68.png"
+      },
+      {
+        "villager": "15",
+        "order": "Atraer jabalí con 1 de las bayas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "16",
+        "order": "Minar 10 de oro y luego enviarlo a la madera",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "villager": "17",
+        "order": "Cuartel, luego entrenar 3 milicias y enviar el aldeano a las ovejas/jabalí",
+        "image": "images/buildings/12.png"
+      },
+      {
+        "villager": "18-20",
+        "order": "Madera",
+        "image": "images/resources/wood.png"
+      },
+      {
+        "villager": "21-22",
+        "order": "Bayas",
+        "image": "images/resources/food.png"
+      },
+      {
+        "villager": "23-28",
+        "order": "Granjas",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Edad Feudal",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Enviar 7 de las ovejas a las granjas",
+        "image": "images/buildings/50.png"
+      },
+      {
+        "order": "Cuando se terminen las ovejas y jabalí, enviar 4 aldeanos al oro",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "food": 14,
+        "wood": 10,
+        "gold": 4,
+        "stone": 0,
+        "order": "En Edad Feudal",
+        "image": "images/ages/feudal_age_de.png"
+      },
+      {
+        "order": "Investigar hacha de doble filo",
+        "image": "images/techs/202.png"
+      },
+      {
+        "order": "Construir 2 Arquerias con 2 aldeanos",
+        "image": "images/buildings/87.png"
+      },
+      {
+        "order": "Construir herrería con 1 aldeano",
+        "image": "images/buildings/103.png"
+      },
+      {
+        "villager": "29-30",
+        "order": "Oro",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "order": "Edad de los Castillos",
+        "image": "images/ages/castle_age_de.png"
+      },
+      {
+        "order": "Cuando se terminen las bayas, enviar los aldeanos al oro y la madera",
+        "image": "images/resources/gold.png"
+      },
+      {
+        "order": "Arqueros",
+        "image": "images/units/4.png"
+      },
+      {
+        "order": "Emplumado de flechas",
+        "image": "images/techs/199.png"
+      },
+      {
+        "food": 10,
+        "wood": 12,
+        "gold": 8,
+        "stone": 0,
+        "order": "En Edad de los Castillos",
+        "image": "images/ages/castle_age_de.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Flecha de punzón",
+        "image": "images/techs/200.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Investigar Ballestero",
+        "image": "images/units/24.png"
+      },
+      {
+        "villager": "30+",
+        "order": "Sierra de arco",
+        "image": "images/techs/203.png"
+      }
+    ]
   }
 ]
