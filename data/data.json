@@ -1,21 +1,37 @@
-Writing data file ../data/data.json
-Writing language file ../data/locales/br/strings.json
-Writing language file ../data/locales/de/strings.json
-Writing language file ../data/locales/en/strings.json
-Writing language file ../data/locales/es/strings.json
-Writing language file ../data/locales/fr/strings.json
-Writing language file ../data/locales/hi/strings.json
-Writing language file ../data/locales/it/strings.json
-Writing language file ../data/locales/jp/strings.json
-Writing language file ../data/locales/ko/strings.json
-Writing language file ../data/locales/ms/strings.json
-Writing language file ../data/locales/mx/strings.json
-Writing language file ../data/locales/ru/strings.json
-Writing language file ../data/locales/tr/strings.json
-Writing language file ../data/locales/tw/strings.json
-Writing language file ../data/locales/vi/strings.json
-Writing language file ../data/locales/zh/strings.json
- "Persians": "120157",
+{
+    "age_names": {
+        "Castle Age": "4203",
+        "Dark Age": "4201",
+        "Feudal Age": "4202",
+        "Imperial Age": "4204"
+    },
+    "civ_helptexts": {
+        "Aztecs": "120164",
+        "Berbers": "120176",
+        "Britons": "120150",
+        "Bulgarians": "120181",
+        "Burmese": "120179",
+        "Byzantines": "120156",
+        "Celts": "120162",
+        "Chinese": "120155",
+        "Cumans": "120183",
+        "Ethiopians": "120174",
+        "Franks": "120151",
+        "Goths": "120152",
+        "Huns": "120166",
+        "Incas": "120170",
+        "Indians": "120169",
+        "Italians": "120168",
+        "Japanese": "120154",
+        "Khmer": "120177",
+        "Koreans": "120167",
+        "Lithuanians": "120184",
+        "Magyars": "120171",
+        "Malay": "120178",
+        "Malians": "120175",
+        "Mayans": "120165",
+        "Mongols": "120161",
+        "Persians": "120157",
         "Portuguese": "120173",
         "Saracens": "120158",
         "Slavs": "120172",
