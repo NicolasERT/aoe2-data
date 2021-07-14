@@ -171,11 +171,11 @@
                         "description": "",
                         "link": "https://ageofempires.fandom.com/wiki/Battering_Ram",
                         "ids": [
-                            35,
+                            1258,
                             422,
                             548
                         ],
-                        "img": "assets/images/units/35.png"
+                        "img": "assets/images/units/1258.png"
                     },
                     {
                         "name": "Mangonel Line",
@@ -257,9 +257,9 @@
                         "description": "",
                         "link": "https://ageofempires.fandom.com/wiki/Trebuchet",
                         "ids": [
-                            42
+                            331
                         ],
-                        "img": "assets/images/units/42.png"
+                        "img": "assets/images/units/331.png"
                     }
                 ]
             },
@@ -566,10 +566,10 @@
                     "description": "",
                     "link": "https://ageofempires.fandom.com/wiki/Konnik",
                     "ids": [
-                        1254,
-                        1255
+                        1225,
+                        1227
                     ],
-                    "img": "assets/images/units/1254.png"
+                    "img": "assets/images/units/1225.png"
                 }
             ],
             "units": {
