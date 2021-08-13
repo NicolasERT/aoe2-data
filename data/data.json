@@ -8,6 +8,7 @@
     "civ_helptexts": {
         "Aztecs": "120164",
         "Berbers": "120176",
+        "Bohemians": "120188",
         "Britons": "120150",
         "Bulgarians": "120181",
         "Burgundians": "120185",
@@ -33,6 +34,7 @@
         "Mayans": "120165",
         "Mongols": "120161",
         "Persians": "120157",
+        "Poles": "120187",
         "Portuguese": "120173",
         "Saracens": "120158",
         "Sicilians": "120186",
@@ -47,6 +49,7 @@
     "civ_names": {
         "Aztecs": "10285",
         "Berbers": "10297",
+        "Bohemians": "10309",
         "Britons": "10271",
         "Bulgarians": "10302",
         "Burgundians": "10306",
@@ -72,6 +75,7 @@
         "Mayans": "10286",
         "Mongols": "10282",
         "Persians": "10278",
+        "Poles": "10308",
         "Portuguese": "10294",
         "Saracens": "10279",
         "Sicilians": "10307",
@@ -375,6 +379,7 @@
                     }
                 ],
                 "Cost": {
+                    "Stone": 100,
                     "Wood": 275
                 },
                 "GarrisonCapacity": 15,
@@ -1747,6 +1752,49 @@
                 "ReloadTime": 2,
                 "TrainTime": 90,
                 "internal_name": "DONJON"
+            },
+            "1734": {
+                "AccuracyPercent": 0,
+                "Armours": [
+                    {
+                        "Amount": 0,
+                        "Class": 21
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 11
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 7,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 31
+                    }
+                ],
+                "Attack": 0,
+                "Attacks": [],
+                "Cost": {
+                    "Wood": 125
+                },
+                "GarrisonCapacity": 0,
+                "HP": 1000,
+                "ID": 1734,
+                "LanguageHelpId": 26581,
+                "LanguageNameId": 5581,
+                "LineOfSight": 6,
+                "MeleeArmor": 0,
+                "MinRange": 0,
+                "PierceArmor": 7,
+                "Range": 0,
+                "ReloadTime": 0,
+                "TrainTime": 40,
+                "internal_name": "FOLWARK1"
             }
         },
         "techs": {
@@ -1829,7 +1877,7 @@
             "10": {
                 "Cost": {
                     "Gold": 500,
-                    "Stone": 450
+                    "Wood": 450
                 },
                 "ID": 10,
                 "LanguageHelpId": 28425,
@@ -2444,6 +2492,7 @@
             },
             "230": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 200
                 },
                 "ID": 230,
@@ -2454,6 +2503,7 @@
             },
             "231": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 120
                 },
                 "ID": 231,
@@ -2464,6 +2514,7 @@
             },
             "233": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 120
                 },
                 "ID": 233,
@@ -2485,6 +2536,7 @@
             },
             "252": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 140
                 },
                 "ID": 252,
@@ -2539,6 +2591,7 @@
             },
             "316": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 475
                 },
                 "ID": 316,
@@ -2549,6 +2602,7 @@
             },
             "319": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 325
                 },
                 "ID": 319,
@@ -2690,6 +2744,7 @@
             },
             "438": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 200
                 },
                 "ID": 438,
@@ -2700,6 +2755,7 @@
             },
             "439": {
                 "Cost": {
+                    "Food": 0,
                     "Gold": 1000
                 },
                 "ID": 439,
@@ -2721,7 +2777,8 @@
             },
             "441": {
                 "Cost": {
-                    "Gold": 350
+                    "Food": 0,
+                    "Gold": 200
                 },
                 "ID": 441,
                 "LanguageHelpId": 28435,
@@ -3358,8 +3415,8 @@
             },
             "755": {
                 "Cost": {
-                    "Food": 800,
-                    "Gold": 450
+                    "Food": 1200,
+                    "Gold": 650
                 },
                 "ID": 755,
                 "LanguageHelpId": 28343,
@@ -3387,7 +3444,51 @@
                 "LanguageHelpId": 28345,
                 "LanguageNameId": 7345,
                 "ResearchTime": 45,
-                "internal_name": "Scutage"
+                "internal_name": "Hauberk"
+            },
+            "782": {
+                "Cost": {
+                    "Food": 500,
+                    "Gold": 300
+                },
+                "ID": 782,
+                "LanguageHelpId": 28348,
+                "LanguageNameId": 7348,
+                "ResearchTime": 45,
+                "internal_name": "Szlachta Privileges"
+            },
+            "783": {
+                "Cost": {
+                    "Food": 750,
+                    "Gold": 550
+                },
+                "ID": 783,
+                "LanguageHelpId": 28349,
+                "LanguageNameId": 7349,
+                "ResearchTime": 60,
+                "internal_name": "Lechitic Legacy"
+            },
+            "784": {
+                "Cost": {
+                    "Food": 300,
+                    "Gold": 300
+                },
+                "ID": 784,
+                "LanguageHelpId": 28350,
+                "LanguageNameId": 7350,
+                "ResearchTime": 45,
+                "internal_name": "Wagenburg Tactics"
+            },
+            "785": {
+                "Cost": {
+                    "Food": 800,
+                    "Gold": 450
+                },
+                "ID": 785,
+                "LanguageHelpId": 28351,
+                "LanguageNameId": 7351,
+                "ResearchTime": 45,
+                "internal_name": "Hussite Reforms"
             }
         },
         "units": {
@@ -3458,7 +3559,7 @@
                 "internal_name": "ARCHR"
             },
             "5": {
-                "AccuracyPercent": 65,
+                "AccuracyPercent": 75,
                 "Armours": [
                     {
                         "Amount": 1,
@@ -3511,7 +3612,7 @@
                 },
                 "FrameDelay": 15,
                 "GarrisonCapacity": 0,
-                "HP": 35,
+                "HP": 40,
                 "ID": 5,
                 "LanguageHelpId": 26086,
                 "LanguageNameId": 5086,
@@ -3828,7 +3929,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [],
                 "Cost": {
                     "Wood": 75
@@ -3872,7 +3973,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [],
                 "Cost": {
                     "Gold": 50,
@@ -3917,7 +4018,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -4053,7 +4154,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 4,
@@ -4140,6 +4241,10 @@
                     {
                         "Amount": 40,
                         "Class": 34
+                    },
+                    {
+                        "Amount": 40,
+                        "Class": 37
                     }
                 ],
                 "Cost": {
@@ -4185,7 +4290,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -4255,7 +4360,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0.8944444444444445,
+                "AttackDelaySeconds": 0.9099999999999999,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -4321,7 +4426,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -4395,7 +4500,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -4655,7 +4760,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -4721,7 +4826,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -4787,7 +4892,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -4849,7 +4954,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -4914,7 +5019,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -4996,9 +5101,10 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [],
                 "Cost": {
+                    "Food": 0,
                     "Gold": 100
                 },
                 "FrameDelay": 0,
@@ -5036,7 +5142,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [],
                 "Cost": {
                     "Gold": 50,
@@ -5155,7 +5261,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -5237,7 +5343,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -5307,7 +5413,7 @@
                     }
                 ],
                 "Attack": 15,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -5327,8 +5433,8 @@
                     }
                 ],
                 "Cost": {
-                    "Food": 200,
-                    "Gold": 75
+                    "Food": 170,
+                    "Gold": 85
                 },
                 "FrameDelay": 0,
                 "GarrisonCapacity": 0,
@@ -5345,7 +5451,7 @@
                 "RechargeRate": 0,
                 "ReloadTime": 2,
                 "Speed": 0.6,
-                "TrainTime": 31,
+                "TrainTime": 25,
                 "internal_name": "MPCAV"
             },
             "250": {
@@ -5373,7 +5479,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -5505,7 +5611,7 @@
                     }
                 ],
                 "Attack": 40,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 35,
@@ -5518,6 +5624,10 @@
                     {
                         "Amount": 12,
                         "Class": 20
+                    },
+                    {
+                        "Amount": 40,
+                        "Class": 37
                     }
                 ],
                 "Cost": {
@@ -5703,7 +5813,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -5769,7 +5879,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -5831,7 +5941,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -5905,7 +6015,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -5983,7 +6093,7 @@
                     }
                 ],
                 "Attack": 200,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 250,
@@ -6041,7 +6151,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -6127,7 +6237,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -6213,7 +6323,7 @@
                     }
                 ],
                 "Attack": 35,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 200,
@@ -6291,7 +6401,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 150,
@@ -6318,7 +6428,7 @@
                 "LanguageNameId": 5289,
                 "LineOfSight": 3,
                 "MaxCharge": 0,
-                "MeleeArmor": 0,
+                "MeleeArmor": -3,
                 "MinRange": 0,
                 "PierceArmor": 190,
                 "Range": 0,
@@ -6345,7 +6455,7 @@
                     }
                 ],
                 "Attack": 25,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 100,
@@ -6411,7 +6521,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -6428,6 +6538,10 @@
                     {
                         "Amount": 0,
                         "Class": 21
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 15
                     }
                 ],
                 "Cost": {
@@ -6472,7 +6586,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -6538,7 +6652,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -6555,6 +6669,10 @@
                     {
                         "Amount": 0,
                         "Class": 21
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 15
                     }
                 ],
                 "Cost": {
@@ -6599,7 +6717,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -6673,7 +6791,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.8816666666666666,
+                "AttackDelaySeconds": 0.8969999999999999,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -6801,7 +6919,7 @@
                     }
                 ],
                 "Attack": 110,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 220,
@@ -6855,7 +6973,7 @@
                     }
                 ],
                 "Attack": 140,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 280,
@@ -6909,7 +7027,7 @@
                     }
                 ],
                 "Attack": 2,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -7111,7 +7229,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -7185,7 +7303,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -7255,7 +7373,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -7317,7 +7435,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -7449,7 +7567,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [],
                 "Cost": {
                     "Wood": 125
@@ -7493,7 +7611,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -7510,6 +7628,10 @@
                     {
                         "Amount": 0,
                         "Class": 21
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 15
                     }
                 ],
                 "Cost": {
@@ -7558,7 +7680,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 200,
@@ -7585,7 +7707,7 @@
                 "LanguageNameId": 5446,
                 "LineOfSight": 3,
                 "MaxCharge": 0,
-                "MeleeArmor": 0,
+                "MeleeArmor": -3,
                 "MinRange": 0,
                 "PierceArmor": 195,
                 "Range": 0,
@@ -7616,7 +7738,7 @@
                     }
                 ],
                 "Attack": 50,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 45,
@@ -7629,6 +7751,10 @@
                     {
                         "Amount": 12,
                         "Class": 20
+                    },
+                    {
+                        "Amount": 50,
+                        "Class": 37
                     }
                 ],
                 "Cost": {
@@ -7678,7 +7804,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -7752,7 +7878,7 @@
                     }
                 ],
                 "Attack": 17,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 4,
@@ -7814,7 +7940,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -7962,7 +8088,7 @@
                     }
                 ],
                 "Attack": 22,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -8028,7 +8154,7 @@
                     }
                 ],
                 "Attack": 20,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -8048,8 +8174,8 @@
                     }
                 ],
                 "Cost": {
-                    "Food": 200,
-                    "Gold": 75
+                    "Food": 170,
+                    "Gold": 85
                 },
                 "FrameDelay": 0,
                 "GarrisonCapacity": 0,
@@ -8066,7 +8192,7 @@
                 "RechargeRate": 0,
                 "ReloadTime": 2,
                 "Speed": 0.6,
-                "TrainTime": 31,
+                "TrainTime": 25,
                 "internal_name": "UMPCAV"
             },
             "559": {
@@ -8168,7 +8294,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -8308,7 +8434,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -8374,7 +8500,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -8436,7 +8562,7 @@
                     }
                 ],
                 "Attack": 75,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 60,
@@ -8449,6 +8575,10 @@
                     {
                         "Amount": 12,
                         "Class": 20
+                    },
+                    {
+                        "Amount": 75,
+                        "Class": 37
                     }
                 ],
                 "Cost": {
@@ -8498,7 +8628,7 @@
                     }
                 ],
                 "Attack": 45,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 275,
@@ -8576,7 +8706,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -8646,7 +8776,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -8716,7 +8846,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -8790,7 +8920,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -8864,7 +8994,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -8946,7 +9076,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -9028,7 +9158,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -9110,7 +9240,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -9188,7 +9318,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -9566,7 +9696,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [],
                 "Cost": {
                     "Gold": 100
@@ -9754,7 +9884,7 @@
                     }
                 ],
                 "Attack": 50,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 50,
@@ -9816,7 +9946,7 @@
                     }
                 ],
                 "Attack": 50,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 50,
@@ -10026,7 +10156,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -10096,7 +10226,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -10322,7 +10452,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -10367,7 +10497,7 @@
                 "AccuracyPercent": 100,
                 "Armours": [
                     {
-                        "Amount": 6,
+                        "Amount": 8,
                         "Class": 4
                     },
                     {
@@ -10388,7 +10518,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -10419,7 +10549,7 @@
                 "LanguageNameId": 5449,
                 "LineOfSight": 5,
                 "MaxCharge": 0,
-                "MeleeArmor": 6,
+                "MeleeArmor": 8,
                 "MinRange": 0,
                 "PierceArmor": 3,
                 "Range": 0,
@@ -10454,7 +10584,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -10524,7 +10654,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -10602,7 +10732,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -10804,7 +10934,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -10874,7 +11004,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -11280,7 +11410,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 1,
+                "AttackDelaySeconds": 1.0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -11346,7 +11476,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 1,
+                "AttackDelaySeconds": 1.0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -11412,7 +11542,7 @@
                     }
                 ],
                 "Attack": 16,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -11474,7 +11604,7 @@
                     }
                 ],
                 "Attack": 18,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -11532,7 +11662,7 @@
                     }
                 ],
                 "Attack": 1,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -11602,7 +11732,7 @@
                     }
                 ],
                 "Attack": 90,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 180,
@@ -11660,7 +11790,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [],
                 "Cost": {
                     "Gold": 160,
@@ -11674,7 +11804,7 @@
                 "LanguageNameId": 5445,
                 "LineOfSight": 8,
                 "MaxCharge": 0,
-                "MeleeArmor": 0,
+                "MeleeArmor": -2,
                 "MinRange": 0,
                 "PierceArmor": 100,
                 "Range": 0,
@@ -11889,7 +12019,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -11951,7 +12081,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -12317,7 +12447,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 4,
@@ -12383,7 +12513,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -12519,7 +12649,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -12585,7 +12715,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -12651,7 +12781,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -12717,7 +12847,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 11,
@@ -12922,8 +13052,8 @@
                         "Class": 31
                     }
                 ],
-                "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "Attack": 13,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -12938,7 +13068,7 @@
                         "Class": 21
                     },
                     {
-                        "Amount": 12,
+                        "Amount": 13,
                         "Class": 31
                     }
                 ],
@@ -12988,8 +13118,8 @@
                         "Class": 31
                     }
                 ],
-                "Attack": 14,
-                "AttackDelaySeconds": 0,
+                "Attack": 16,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -13004,7 +13134,7 @@
                         "Class": 21
                     },
                     {
-                        "Amount": 14,
+                        "Amount": 16,
                         "Class": 31
                     }
                 ],
@@ -13055,7 +13185,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -13125,7 +13255,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -13195,7 +13325,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -13261,7 +13391,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -13327,7 +13457,7 @@
                     }
                 ],
                 "Attack": 2,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 125,
@@ -13354,7 +13484,7 @@
                 "LanguageNameId": 5094,
                 "LineOfSight": 3,
                 "MaxCharge": 0,
-                "MeleeArmor": 0,
+                "MeleeArmor": -3,
                 "MinRange": 0,
                 "PierceArmor": 180,
                 "Range": 0,
@@ -13389,7 +13519,7 @@
                     }
                 ],
                 "Attack": 20,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 100,
@@ -13459,7 +13589,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -13495,7 +13625,7 @@
                 "PierceArmor": 1,
                 "Range": 1,
                 "RechargeRate": 0,
-                "ReloadTime": 2.3,
+                "ReloadTime": 2,
                 "Speed": 1.45,
                 "TrainTime": 24,
                 "internal_name": "SLANCER"
@@ -13521,7 +13651,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 11,
@@ -13557,7 +13687,7 @@
                 "PierceArmor": 1,
                 "Range": 1,
                 "RechargeRate": 0,
-                "ReloadTime": 2.3,
+                "ReloadTime": 2,
                 "Speed": 1.45,
                 "TrainTime": 20,
                 "internal_name": "ESLANCER"
@@ -13583,7 +13713,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -13649,7 +13779,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -13684,7 +13814,7 @@
                 "MinRange": 0,
                 "PierceArmor": 2,
                 "Range": 0,
-                "RechargeDuration": 40,
+                "RechargeDuration": 40.0,
                 "RechargeRate": 0.625,
                 "ReloadTime": 1.9,
                 "Speed": 1.35,
@@ -13716,7 +13846,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -13751,7 +13881,7 @@
                 "MinRange": 0,
                 "PierceArmor": 2,
                 "Range": 0,
-                "RechargeDuration": 40,
+                "RechargeDuration": 40.0,
                 "RechargeRate": 0.75,
                 "ReloadTime": 1.9,
                 "Speed": 1.35,
@@ -13783,7 +13913,7 @@
                     }
                 ],
                 "Attack": 5,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -13845,7 +13975,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -13907,7 +14037,7 @@
                     }
                 ],
                 "Attack": 5,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -13969,7 +14099,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -14031,14 +14161,14 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0,
+                "AttackDelaySeconds": 0.0,
                 "Attacks": [
                     {
                         "Amount": 2,
                         "Class": 29
                     },
                     {
-                        "Amount": 2,
+                        "Amount": 0,
                         "Class": 21
                     },
                     {
@@ -14083,6 +14213,417 @@
                 "Speed": 0.9,
                 "TrainTime": 14,
                 "internal_name": "FLEMISHPIKEMAN2"
+            },
+            "1701": {
+                "AccuracyPercent": 100,
+                "Armours": [
+                    {
+                        "Amount": 0,
+                        "Class": 1
+                    },
+                    {
+                        "Amount": 2,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 2,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 19
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 31
+                    }
+                ],
+                "Attack": 8,
+                "AttackDelaySeconds": 0.0,
+                "Attacks": [
+                    {
+                        "Amount": 2,
+                        "Class": 29
+                    },
+                    {
+                        "Amount": 4,
+                        "Class": 21
+                    },
+                    {
+                        "Amount": 8,
+                        "Class": 4
+                    }
+                ],
+                "Cost": {
+                    "Food": 55,
+                    "Gold": 20
+                },
+                "FrameDelay": 0,
+                "GarrisonCapacity": 0,
+                "HP": 80,
+                "ID": 1701,
+                "LanguageHelpId": 26558,
+                "LanguageNameId": 5558,
+                "LineOfSight": 3,
+                "MaxCharge": 0,
+                "MeleeArmor": 2,
+                "MinRange": 0,
+                "PierceArmor": 2,
+                "Range": 0,
+                "RechargeRate": 0,
+                "ReloadTime": 2,
+                "Speed": 0.9,
+                "TrainTime": 9,
+                "internal_name": "OBUCH"
+            },
+            "1703": {
+                "AccuracyPercent": 100,
+                "Armours": [
+                    {
+                        "Amount": 0,
+                        "Class": 1
+                    },
+                    {
+                        "Amount": 2,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 2,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 19
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 31
+                    }
+                ],
+                "Attack": 10,
+                "AttackDelaySeconds": 0.0,
+                "Attacks": [
+                    {
+                        "Amount": 3,
+                        "Class": 29
+                    },
+                    {
+                        "Amount": 6,
+                        "Class": 21
+                    },
+                    {
+                        "Amount": 10,
+                        "Class": 4
+                    }
+                ],
+                "Cost": {
+                    "Food": 55,
+                    "Gold": 20
+                },
+                "FrameDelay": 0,
+                "GarrisonCapacity": 0,
+                "HP": 95,
+                "ID": 1703,
+                "LanguageHelpId": 26559,
+                "LanguageNameId": 5559,
+                "LineOfSight": 3,
+                "MaxCharge": 0,
+                "MeleeArmor": 2,
+                "MinRange": 0,
+                "PierceArmor": 2,
+                "Range": 0,
+                "RechargeRate": 0,
+                "ReloadTime": 2,
+                "Speed": 0.9,
+                "TrainTime": 9,
+                "internal_name": "EOBUCH"
+            },
+            "1704": {
+                "AccuracyPercent": 85,
+                "Armours": [
+                    {
+                        "Amount": 0,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 20
+                    },
+                    {
+                        "Amount": 7,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 19
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 23
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 31
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 37
+                    }
+                ],
+                "Attack": 17,
+                "AttackDelaySeconds": 0.9333333333333333,
+                "Attacks": [
+                    {
+                        "Amount": 1,
+                        "Class": 11
+                    },
+                    {
+                        "Amount": 17,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 3,
+                        "Class": 17
+                    }
+                ],
+                "Cost": {
+                    "Gold": 70,
+                    "Wood": 110
+                },
+                "FrameDelay": 30,
+                "GarrisonCapacity": 0,
+                "HP": 200,
+                "ID": 1704,
+                "LanguageHelpId": 26561,
+                "LanguageNameId": 5561,
+                "LineOfSight": 8,
+                "MaxCharge": 0,
+                "MeleeArmor": 0,
+                "MinRange": 0,
+                "PierceArmor": 7,
+                "Range": 6,
+                "RechargeRate": 0,
+                "ReloadTime": 3.45,
+                "Speed": 0.85,
+                "TrainTime": 21,
+                "internal_name": "HUSSITEWAGON"
+            },
+            "1706": {
+                "AccuracyPercent": 90,
+                "Armours": [
+                    {
+                        "Amount": 1,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 20
+                    },
+                    {
+                        "Amount": 10,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 19
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 23
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 31
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 37
+                    }
+                ],
+                "Attack": 20,
+                "AttackDelaySeconds": 0.9333333333333333,
+                "Attacks": [
+                    {
+                        "Amount": 2,
+                        "Class": 11
+                    },
+                    {
+                        "Amount": 20,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 3,
+                        "Class": 17
+                    }
+                ],
+                "Cost": {
+                    "Gold": 70,
+                    "Wood": 110
+                },
+                "FrameDelay": 30,
+                "GarrisonCapacity": 0,
+                "HP": 250,
+                "ID": 1706,
+                "LanguageHelpId": 26563,
+                "LanguageNameId": 5563,
+                "LineOfSight": 8,
+                "MaxCharge": 0,
+                "MeleeArmor": 1,
+                "MinRange": 0,
+                "PierceArmor": 10,
+                "Range": 6,
+                "RechargeRate": 0,
+                "ReloadTime": 3.45,
+                "Speed": 0.85,
+                "TrainTime": 21,
+                "internal_name": "EHUSSITEWAGON"
+            },
+            "1707": {
+                "AccuracyPercent": 100,
+                "Armours": [
+                    {
+                        "Amount": 1,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 8
+                    },
+                    {
+                        "Amount": 2,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 31
+                    }
+                ],
+                "Attack": 9,
+                "AttackDelaySeconds": 0.0,
+                "Attacks": [
+                    {
+                        "Amount": 14,
+                        "Class": 25
+                    },
+                    {
+                        "Amount": 9,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 11
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 21
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 15
+                    },
+                    {
+                        "Amount": 4,
+                        "Class": 23
+                    }
+                ],
+                "Cost": {
+                    "Food": 80
+                },
+                "FrameDelay": 0,
+                "GarrisonCapacity": 0,
+                "HP": 80,
+                "ID": 1707,
+                "LanguageHelpId": 26577,
+                "LanguageNameId": 5577,
+                "LineOfSight": 4,
+                "MaxCharge": 0,
+                "MeleeArmor": 1,
+                "MinRange": 0,
+                "PierceArmor": 2,
+                "Range": 0,
+                "RechargeRate": 0,
+                "ReloadTime": 1.9,
+                "Speed": 1.5,
+                "TrainTime": 30,
+                "internal_name": "WINGEDHUSSAR"
+            },
+            "1709": {
+                "AccuracyPercent": 100,
+                "Armours": [
+                    {
+                        "Amount": 2,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 6,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 20
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 23
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 31
+                    }
+                ],
+                "Attack": 55,
+                "AttackDelaySeconds": 0.21,
+                "Attacks": [
+                    {
+                        "Amount": 250,
+                        "Class": 11
+                    },
+                    {
+                        "Amount": 55,
+                        "Class": 16
+                    },
+                    {
+                        "Amount": 55,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 20,
+                        "Class": 20
+                    },
+                    {
+                        "Amount": 55,
+                        "Class": 13
+                    },
+                    {
+                        "Amount": 55,
+                        "Class": 34
+                    },
+                    {
+                        "Amount": 55,
+                        "Class": 37
+                    }
+                ],
+                "Cost": {
+                    "Gold": 225,
+                    "Wood": 225
+                },
+                "FrameDelay": 7,
+                "GarrisonCapacity": 0,
+                "HP": 90,
+                "ID": 1709,
+                "LanguageHelpId": 26579,
+                "LanguageNameId": 5579,
+                "LineOfSight": 14,
+                "MaxCharge": 0,
+                "MeleeArmor": 2,
+                "MinRange": 5,
+                "PierceArmor": 6,
+                "Range": 12,
+                "RechargeRate": 0,
+                "ReloadTime": 6.5,
+                "Speed": 0.7,
+                "TrainTime": 56,
+                "internal_name": "HOUFNICE"
             }
         }
     },
@@ -14393,6 +14934,160 @@
                 1104,
                 1105,
                 1258
+            ]
+        },
+        "Bohemians": {
+            "buildings": [
+                12,
+                45,
+                49,
+                50,
+                68,
+                70,
+                72,
+                79,
+                82,
+                84,
+                87,
+                101,
+                103,
+                104,
+                109,
+                117,
+                155,
+                199,
+                209,
+                234,
+                235,
+                236,
+                276,
+                487,
+                562,
+                584,
+                598,
+                621,
+                792
+            ],
+            "monkPrefix": "",
+            "techs": [
+                8,
+                13,
+                14,
+                15,
+                17,
+                22,
+                23,
+                39,
+                45,
+                47,
+                48,
+                50,
+                51,
+                54,
+                55,
+                63,
+                64,
+                65,
+                67,
+                68,
+                74,
+                75,
+                76,
+                77,
+                81,
+                82,
+                93,
+                101,
+                102,
+                103,
+                140,
+                182,
+                194,
+                199,
+                200,
+                201,
+                202,
+                203,
+                211,
+                212,
+                213,
+                215,
+                219,
+                221,
+                230,
+                231,
+                233,
+                249,
+                252,
+                278,
+                279,
+                280,
+                315,
+                316,
+                319,
+                321,
+                322,
+                374,
+                377,
+                408,
+                438,
+                439,
+                441,
+                602,
+                608,
+                716
+            ],
+            "unique": {
+                "castleAgeUniqueTech": 784,
+                "castleAgeUniqueUnit": 1704,
+                "imperialAgeUniqueTech": 785,
+                "imperialAgeUniqueUnit": 1706
+            },
+            "units": [
+                4,
+                5,
+                6,
+                7,
+                13,
+                17,
+                21,
+                24,
+                36,
+                38,
+                74,
+                75,
+                77,
+                83,
+                93,
+                125,
+                128,
+                279,
+                280,
+                283,
+                331,
+                358,
+                359,
+                420,
+                422,
+                440,
+                442,
+                448,
+                473,
+                492,
+                527,
+                529,
+                539,
+                542,
+                545,
+                546,
+                550,
+                567,
+                691,
+                1103,
+                1104,
+                1105,
+                1258,
+                1709
             ]
         },
         "Britons": {
@@ -17159,7 +17854,6 @@
                 67,
                 68,
                 74,
-                75,
                 76,
                 80,
                 81,
@@ -17239,7 +17933,6 @@
                 420,
                 422,
                 440,
-                441,
                 442,
                 448,
                 473,
@@ -17257,7 +17950,8 @@
                 1103,
                 1104,
                 1105,
-                1258
+                1258,
+                1707
             ]
         },
         "Magyars": {
@@ -18159,6 +18853,156 @@
                 1104,
                 1105,
                 1258
+            ]
+        },
+        "Poles": {
+            "buildings": [
+                12,
+                45,
+                49,
+                50,
+                70,
+                72,
+                79,
+                82,
+                84,
+                87,
+                101,
+                103,
+                104,
+                109,
+                117,
+                155,
+                199,
+                209,
+                234,
+                235,
+                236,
+                276,
+                487,
+                562,
+                584,
+                598,
+                621,
+                792,
+                1734
+            ],
+            "monkPrefix": "",
+            "techs": [
+                8,
+                12,
+                13,
+                14,
+                15,
+                17,
+                22,
+                23,
+                39,
+                45,
+                47,
+                48,
+                50,
+                54,
+                55,
+                63,
+                64,
+                65,
+                67,
+                68,
+                74,
+                75,
+                76,
+                77,
+                81,
+                82,
+                93,
+                101,
+                102,
+                103,
+                140,
+                194,
+                199,
+                200,
+                201,
+                202,
+                203,
+                211,
+                212,
+                213,
+                215,
+                230,
+                231,
+                249,
+                252,
+                278,
+                279,
+                280,
+                315,
+                316,
+                321,
+                322,
+                374,
+                379,
+                408,
+                435,
+                437,
+                438,
+                441,
+                602,
+                608,
+                716
+            ],
+            "unique": {
+                "castleAgeUniqueTech": 782,
+                "castleAgeUniqueUnit": 1701,
+                "imperialAgeUniqueTech": 783,
+                "imperialAgeUniqueUnit": 1703
+            },
+            "units": [
+                4,
+                6,
+                7,
+                13,
+                17,
+                21,
+                24,
+                36,
+                38,
+                39,
+                74,
+                75,
+                77,
+                83,
+                93,
+                125,
+                128,
+                279,
+                280,
+                283,
+                331,
+                358,
+                420,
+                422,
+                440,
+                442,
+                448,
+                473,
+                474,
+                492,
+                527,
+                529,
+                532,
+                539,
+                545,
+                546,
+                548,
+                550,
+                567,
+                1103,
+                1104,
+                1105,
+                1258,
+                1707
             ]
         },
         "Portuguese": {
