@@ -897,7 +897,7 @@
                     "Stone": 5
                 },
                 "GarrisonCapacity": 0,
-                "HP": 900,
+                "HP": 1080,
                 "ID": 117,
                 "LanguageHelpId": 26203,
                 "LanguageNameId": 5203,
@@ -1338,7 +1338,7 @@
                     "Stone": 30
                 },
                 "GarrisonCapacity": 0,
-                "HP": 1375,
+                "HP": 1650,
                 "ID": 487,
                 "LanguageHelpId": 26185,
                 "LanguageNameId": 5185,
@@ -1615,6 +1615,66 @@
                 "ReloadTime": 0,
                 "TrainTime": 120,
                 "internal_name": "FEITO"
+            },
+            "1189": {
+                "AccuracyPercent": 100,
+                "Armours": [
+                    {
+                        "Amount": 0,
+                        "Class": 21
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 11
+                    },
+                    {
+                        "Amount": 3,
+                        "Class": 4
+                    },
+                    {
+                        "Amount": 10,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 13
+                    },
+                    {
+                        "Amount": 3,
+                        "Class": 31
+                    }
+                ],
+                "Attack": 3,
+                "Attacks": [
+                    {
+                        "Amount": 10,
+                        "Class": 16
+                    },
+                    {
+                        "Amount": 3,
+                        "Class": 3
+                    },
+                    {
+                        "Amount": 10,
+                        "Class": 34
+                    }
+                ],
+                "Cost": {
+                    "Wood": 150
+                },
+                "GarrisonCapacity": 10,
+                "HP": 2000,
+                "ID": 1189,
+                "LanguageHelpId": 26249,
+                "LanguageNameId": 5249,
+                "LineOfSight": 10,
+                "MeleeArmor": 3,
+                "MinRange": 1,
+                "PierceArmor": 10,
+                "Range": 7,
+                "ReloadTime": 3,
+                "TrainTime": 35,
+                "internal_name": "HARBOR"
             },
             "1251": {
                 "AccuracyPercent": 100,
@@ -3791,8 +3851,8 @@
             },
             "24": {
                 "Cost": {
-                    "Food": 125,
-                    "Gold": 75
+                    "Food": 175,
+                    "Gold": 125
                 },
                 "ID": 901,
                 "ResearchTime": 35,
@@ -3913,8 +3973,8 @@
             },
             "492": {
                 "Cost": {
-                    "Food": 350,
-                    "Gold": 300
+                    "Food": 450,
+                    "Gold": 400
                 },
                 "ID": 901,
                 "ResearchTime": 50,
@@ -4547,17 +4607,17 @@
             },
             "1749": {
                 "Cost": {
-                    "Food": 1000,
-                    "Gold": 800
+                    "Food": 950,
+                    "Gold": 575
                 },
                 "ID": 901,
-                "ResearchTime": 80,
-                "internal_name": "Elite Elephant Archer"
+                "ResearchTime": 45,
+                "internal_name": "Elite Ghulam"
             },
             "1753": {
                 "Cost": {
-                    "Food": 800,
-                    "Gold": 600
+                    "Food": 850,
+                    "Gold": 500
                 },
                 "ID": 901,
                 "ResearchTime": 45,
@@ -5039,7 +5099,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [],
                 "ChargeEvent": 0,
                 "ChargeType": 0,
@@ -5087,7 +5147,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [],
                 "ChargeEvent": 0,
                 "ChargeType": 0,
@@ -5136,7 +5196,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -5280,7 +5340,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 4,
@@ -5424,7 +5484,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -5568,7 +5628,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -5646,7 +5706,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -5922,7 +5982,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -5992,7 +6052,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -6062,7 +6122,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -6128,7 +6188,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -6197,7 +6257,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -6283,7 +6343,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [],
                 "ChargeEvent": 0,
                 "ChargeType": 0,
@@ -6328,7 +6388,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [],
                 "ChargeEvent": 0,
                 "ChargeType": 0,
@@ -6455,7 +6515,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -6541,7 +6601,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -6615,7 +6675,7 @@
                     }
                 ],
                 "Attack": 15,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -6689,7 +6749,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -6829,7 +6889,7 @@
                     }
                 ],
                 "Attack": 40,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 35,
@@ -7039,7 +7099,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -7109,7 +7169,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -7175,7 +7235,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -7253,7 +7313,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -7335,7 +7395,7 @@
                     }
                 ],
                 "Attack": 200,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 250,
@@ -7397,7 +7457,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -7487,7 +7547,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -7577,7 +7637,7 @@
                     }
                 ],
                 "Attack": 35,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 200,
@@ -7659,7 +7719,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 150,
@@ -7717,7 +7777,7 @@
                     }
                 ],
                 "Attack": 25,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 100,
@@ -7787,7 +7847,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -7856,7 +7916,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -7926,7 +7986,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -7995,7 +8055,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -8076,7 +8136,7 @@
                 "AttackDelaySeconds": 0.8969999999999999,
                 "Attacks": [
                     {
-                        "Amount": 2,
+                        "Amount": 4,
                         "Class": 27
                     },
                     {
@@ -8209,7 +8269,7 @@
                     }
                 ],
                 "Attack": 110,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 220,
@@ -8267,7 +8327,7 @@
                     }
                 ],
                 "Attack": 140,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 280,
@@ -8325,7 +8385,7 @@
                     }
                 ],
                 "Attack": 2,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -8539,7 +8599,7 @@
                     }
                 ],
                 "Attack": 3,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -8617,7 +8677,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -8691,7 +8751,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -8757,7 +8817,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 6,
@@ -8897,7 +8957,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [],
                 "ChargeEvent": 0,
                 "ChargeType": 0,
@@ -8945,7 +9005,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -9018,7 +9078,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 200,
@@ -9080,7 +9140,7 @@
                     }
                 ],
                 "Attack": 50,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 45,
@@ -9150,7 +9210,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -9228,7 +9288,7 @@
                     }
                 ],
                 "Attack": 17,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 4,
@@ -9294,7 +9354,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -9446,7 +9506,7 @@
                     }
                 ],
                 "Attack": 22,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -9516,7 +9576,7 @@
                     }
                 ],
                 "Attack": 20,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -9668,7 +9728,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -9816,7 +9876,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -9886,7 +9946,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -9952,7 +10012,7 @@
                     }
                 ],
                 "Attack": 75,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 60,
@@ -10022,7 +10082,7 @@
                     }
                 ],
                 "Attack": 45,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 275,
@@ -10104,7 +10164,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -10178,7 +10238,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -10252,7 +10312,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -10330,7 +10390,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -10408,7 +10468,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -10494,7 +10554,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -10580,7 +10640,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -10666,7 +10726,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -10748,7 +10808,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -11146,7 +11206,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [],
                 "ChargeEvent": 0,
                 "ChargeType": 0,
@@ -11197,7 +11257,7 @@
                         "Class": 19
                     },
                     {
-                        "Amount": 0,
+                        "Amount": -1,
                         "Class": 28
                     },
                     {
@@ -11215,6 +11275,10 @@
                     {
                         "Amount": 9,
                         "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 27
                     }
                 ],
                 "ChargeEvent": 0,
@@ -11267,7 +11331,7 @@
                         "Class": 19
                     },
                     {
-                        "Amount": 0,
+                        "Amount": -1,
                         "Class": 28
                     },
                     {
@@ -11285,6 +11349,10 @@
                     {
                         "Amount": 9,
                         "Class": 3
+                    },
+                    {
+                        "Amount": 0,
+                        "Class": 27
                     }
                 ],
                 "ChargeEvent": 0,
@@ -11346,7 +11414,7 @@
                     }
                 ],
                 "Attack": 50,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 50,
@@ -11412,7 +11480,7 @@
                     }
                 ],
                 "Attack": 50,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 50,
@@ -11634,7 +11702,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -11708,7 +11776,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -11781,7 +11849,7 @@
                         "Class": 5
                     },
                     {
-                        "Amount": -7,
+                        "Amount": -4,
                         "Class": 28
                     },
                     {
@@ -11808,7 +11876,7 @@
                 "ChargeEvent": 0,
                 "ChargeType": 0,
                 "Cost": {
-                    "Food": 90,
+                    "Food": 80,
                     "Gold": 70
                 },
                 "FrameDelay": 12,
@@ -11855,7 +11923,7 @@
                         "Class": 5
                     },
                     {
-                        "Amount": -7,
+                        "Amount": -4,
                         "Class": 28
                     },
                     {
@@ -11882,7 +11950,7 @@
                 "ChargeEvent": 0,
                 "ChargeType": 0,
                 "Cost": {
-                    "Food": 90,
+                    "Food": 80,
                     "Gold": 70
                 },
                 "FrameDelay": 24,
@@ -11930,7 +11998,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -12000,7 +12068,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -12070,7 +12138,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -12144,7 +12212,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -12226,7 +12294,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -12440,7 +12508,7 @@
                     }
                 ],
                 "Attack": 6,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -12514,7 +12582,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -12940,7 +13008,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 1.0,
+                "AttackDelaySeconds": 1,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -13010,7 +13078,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 1.0,
+                "AttackDelaySeconds": 1,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -13080,7 +13148,7 @@
                     }
                 ],
                 "Attack": 16,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -13146,7 +13214,7 @@
                     }
                 ],
                 "Attack": 18,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -13208,7 +13276,7 @@
                     }
                 ],
                 "Attack": 1,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 1,
@@ -13282,7 +13350,7 @@
                     }
                 ],
                 "Attack": 90,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 180,
@@ -13344,7 +13412,7 @@
                     }
                 ],
                 "Attack": 0,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [],
                 "ChargeEvent": 0,
                 "ChargeType": 0,
@@ -13585,7 +13653,7 @@
                     }
                 ],
                 "Attack": 7,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -13651,7 +13719,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -14037,7 +14105,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 4,
@@ -14063,7 +14131,7 @@
                 "ChargeEvent": 0,
                 "ChargeType": 0,
                 "Cost": {
-                    "Food": 120,
+                    "Food": 110,
                     "Gold": 70
                 },
                 "FrameDelay": 0,
@@ -14111,7 +14179,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 7,
@@ -14137,7 +14205,7 @@
                 "ChargeEvent": 0,
                 "ChargeType": 0,
                 "Cost": {
-                    "Food": 120,
+                    "Food": 110,
                     "Gold": 70
                 },
                 "FrameDelay": 0,
@@ -14259,7 +14327,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -14329,7 +14397,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -14399,7 +14467,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -14469,7 +14537,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 11,
@@ -14687,7 +14755,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -14757,7 +14825,7 @@
                     }
                 ],
                 "Attack": 16,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -14827,7 +14895,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -14901,7 +14969,7 @@
                     }
                 ],
                 "Attack": 13,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -14975,7 +15043,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -15045,7 +15113,7 @@
                     }
                 ],
                 "Attack": 14,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -15115,7 +15183,7 @@
                     }
                 ],
                 "Attack": 2,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 125,
@@ -15181,7 +15249,7 @@
                     }
                 ],
                 "Attack": 20,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 200,
@@ -15259,7 +15327,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -15325,7 +15393,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 11,
@@ -15391,7 +15459,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -15461,7 +15529,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -15493,13 +15561,13 @@
                 "LanguageHelpId": 26534,
                 "LanguageNameId": 5534,
                 "LineOfSight": 5,
-                "MaxCharge": 25,
+                "MaxCharge": 20,
                 "MeleeArmor": 2,
                 "MinRange": 0,
                 "PierceArmor": 2,
                 "Range": 0,
-                "RechargeDuration": 40.0,
-                "RechargeRate": 0.625,
+                "RechargeDuration": 40,
+                "RechargeRate": 0.5,
                 "ReloadTime": 1.9,
                 "Speed": 1.35,
                 "TrainTime": 15,
@@ -15532,7 +15600,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 0,
@@ -15564,13 +15632,13 @@
                 "LanguageHelpId": 26536,
                 "LanguageNameId": 5536,
                 "LineOfSight": 5,
-                "MaxCharge": 30,
+                "MaxCharge": 25,
                 "MeleeArmor": 2,
                 "MinRange": 0,
                 "PierceArmor": 2,
                 "Range": 0,
-                "RechargeDuration": 40.0,
-                "RechargeRate": 0.75,
+                "RechargeDuration": 40,
+                "RechargeRate": 0.625,
                 "ReloadTime": 1.9,
                 "Speed": 1.35,
                 "TrainTime": 14,
@@ -15603,7 +15671,7 @@
                     }
                 ],
                 "Attack": 5,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -15669,7 +15737,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -15735,7 +15803,7 @@
                     }
                 ],
                 "Attack": 5,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -15801,7 +15869,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -15867,7 +15935,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -15953,7 +16021,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -16019,7 +16087,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 3,
@@ -16229,7 +16297,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 14,
@@ -16388,7 +16456,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -16421,7 +16489,7 @@
                 "MinRange": 0,
                 "PierceArmor": 0,
                 "Range": 0,
-                "RechargeDuration": 24.0,
+                "RechargeDuration": 24,
                 "RechargeRate": 0.5,
                 "ReloadTime": 2,
                 "Speed": 1.05,
@@ -16455,7 +16523,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -16488,7 +16556,7 @@
                 "MinRange": 0,
                 "PierceArmor": 0,
                 "Range": 0,
-                "RechargeDuration": 20.0,
+                "RechargeDuration": 20,
                 "RechargeRate": 0.75,
                 "ReloadTime": 2,
                 "Speed": 1.05,
@@ -16530,7 +16598,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -16612,7 +16680,7 @@
                     }
                 ],
                 "Attack": 12,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 12,
@@ -16685,7 +16753,7 @@
                         "Class": 31
                     }
                 ],
-                "Attack": 5,
+                "Attack": 3,
                 "AttackDelaySeconds": 0.8,
                 "Attacks": [
                     {
@@ -16697,12 +16765,12 @@
                         "Class": 21
                     },
                     {
-                        "Amount": 5,
+                        "Amount": 3,
                         "Class": 4
                     },
                     {
                         "Amount": 0,
-                        "Class": 15
+                        "Class": 1
                     }
                 ],
                 "ChargeEvent": 0,
@@ -16755,7 +16823,7 @@
                         "Class": 31
                     }
                 ],
-                "Attack": 6,
+                "Attack": 4,
                 "AttackDelaySeconds": 0.8,
                 "Attacks": [
                     {
@@ -16767,12 +16835,12 @@
                         "Class": 21
                     },
                     {
-                        "Amount": 6,
+                        "Amount": 4,
                         "Class": 4
                     },
                     {
-                        "Amount": 0,
-                        "Class": 15
+                        "Amount": 1,
+                        "Class": 1
                     }
                 ],
                 "ChargeEvent": 0,
@@ -16834,7 +16902,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 75,
@@ -16912,7 +16980,7 @@
                     }
                 ],
                 "Attack": 4,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 105,
@@ -16982,7 +17050,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -17009,7 +17077,7 @@
                 },
                 "FrameDelay": 0,
                 "GarrisonCapacity": 0,
-                "HP": 65,
+                "HP": 55,
                 "ID": 1747,
                 "LanguageHelpId": 26431,
                 "LanguageNameId": 5431,
@@ -17052,7 +17120,7 @@
                     }
                 ],
                 "Attack": 10,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 10,
@@ -17079,7 +17147,7 @@
                 },
                 "FrameDelay": 0,
                 "GarrisonCapacity": 0,
-                "HP": 75,
+                "HP": 65,
                 "ID": 1749,
                 "LanguageHelpId": 26432,
                 "LanguageNameId": 5432,
@@ -17126,7 +17194,7 @@
                     }
                 ],
                 "Attack": 9,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 9,
@@ -17200,7 +17268,7 @@
                     }
                 ],
                 "Attack": 8,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 8,
@@ -17237,8 +17305,8 @@
                 "MinRange": 0,
                 "PierceArmor": 1,
                 "Range": 0,
-                "RechargeDuration": 15.000015000015,
-                "RechargeRate": 0.333333,
+                "RechargeDuration": 20,
+                "RechargeRate": 0.25,
                 "ReloadTime": 1.75,
                 "Speed": 1.6,
                 "TrainTime": 20,
@@ -17271,7 +17339,7 @@
                     }
                 ],
                 "Attack": 11,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 11,
@@ -17308,8 +17376,8 @@
                 "MinRange": 0,
                 "PierceArmor": 1,
                 "Range": 0,
-                "RechargeDuration": 14.99998928572194,
-                "RechargeRate": 0.466667,
+                "RechargeDuration": 20,
+                "RechargeRate": 0.35,
                 "ReloadTime": 1.75,
                 "Speed": 1.6,
                 "TrainTime": 20,
@@ -17338,7 +17406,7 @@
                     }
                 ],
                 "Attack": 2,
-                "AttackDelaySeconds": 0.0,
+                "AttackDelaySeconds": 0,
                 "Attacks": [
                     {
                         "Amount": 2,
@@ -18224,6 +18292,7 @@
                 48,
                 50,
                 51,
+                54,
                 55,
                 63,
                 65,
@@ -18831,6 +18900,7 @@
                 45,
                 47,
                 48,
+                54,
                 55,
                 63,
                 64,
@@ -19501,6 +19571,7 @@
                 17,
                 21,
                 24,
+                36,
                 74,
                 75,
                 77,
@@ -20260,7 +20331,6 @@
                 330,
                 331,
                 358,
-                359,
                 420,
                 440,
                 441,
@@ -21520,7 +21590,8 @@
                 584,
                 598,
                 621,
-                792
+                792,
+                1189
             ],
             "monkPrefix": "",
             "techs": [
@@ -21537,6 +21608,7 @@
                 47,
                 48,
                 50,
+                54,
                 55,
                 63,
                 64,
@@ -22754,7 +22826,6 @@
                 47,
                 48,
                 50,
-                54,
                 55,
                 65,
                 67,
@@ -23368,7 +23439,6 @@
                 47,
                 48,
                 50,
-                54,
                 55,
                 63,
                 64,
